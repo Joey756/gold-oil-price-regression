@@ -90,7 +90,7 @@ gold-oil-price-regression/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/gold-oil-price-regression.git
+git clone https://github.com/Joey756/gold-oil-price-regression.git
 cd gold-oil-price-regression
 
 # Install dependencies
@@ -113,23 +113,9 @@ jupyter notebook gold_oil_regression.ipynb
 
 ---
 
-## Part of a Larger ML Journey
-
-This project is part of a series of machine learning projects being built while completing the [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning) course on Coursera. Projects span two domains:
-
-**Astronomy**
-- Blazar outburst energy injection rate (AO 0235+164, 2008 flare) — [link]
-- Galaxy redshift prediction — coming soon
-
-**Banking & Finance**
-- House price prediction (Ames Housing Dataset) — [link]
-- TV advertising vs sales — [link]
-- Gold vs Oil price prediction (this project)
-
----
 
 ## Author
 
-**Dara**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Learning: Supervised ML — Regression and Classification (Coursera)
+
+- GitHub: [Joey756](https://github.com/Joey756)
+
