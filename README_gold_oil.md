@@ -81,7 +81,7 @@ gold-oil-price-regression/
 │
 ├── gold_oil_regression.ipynb    # Jupyter notebook with full analysis
 ├── plot.png                     # Scatter plot with regression line
-└── README.md                    # This file
+└── README_gold_oil.md                    # This file
 ```
 
 ---
